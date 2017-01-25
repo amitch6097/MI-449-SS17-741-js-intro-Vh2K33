@@ -38,7 +38,7 @@ kickButton.addEventListener('click', function(){
 kickButton.addEventListener('mouseenter', function(){
   kickSound.play()
 })
-//openhat listners
+//snare listners
 snareButton.addEventListener('click', function(){
   snareSound.play()
 })
